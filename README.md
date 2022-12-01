@@ -1,2 +1,2 @@
-# Projeto-1-Spam-Prediction
-Repositório de projeto sobre detecção de spam
+# Projeto-1-Regressao-Logistica
+Repositório de projeto de estudo sobre Regressão Logística
